@@ -1,0 +1,7 @@
+오늘 배운 내용
+GIT과 GITHUB
+
+#test2.txt 파일을 생성하고 내용을 기입한 후,
+#해당 파일을  Github에 업로드 하기
+
+dfdf
