@@ -7,3 +7,5 @@ GIT과 GITHUB
 dfdf
 
 Github에서 수정됨
+
+local에서 수정됨
